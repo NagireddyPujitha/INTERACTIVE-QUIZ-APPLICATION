@@ -24,6 +24,9 @@ The quiz provides an intuitive interface where users can attempt questions, rece
 It enhances the traditional quiz format by integrating engaging elements such as timers, animations, and real-time scoring, making it appealing to a wide range of 
 users, from students and teachers to corporate professionals and trivia enthusiasts.
 
+*OUTPUT*
+
+
 USAGE & BENEFITS
 
   Educational Purposes: Helps students and learners test their knowledge on different subjects in an engaging manner. Teachers can use the quiz to assess students'  
