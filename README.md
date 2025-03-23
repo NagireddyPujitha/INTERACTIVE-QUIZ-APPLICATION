@@ -112,4 +112,8 @@ FUTURE ENHANCEMENTS
   Multiplayer Mode: Enables multiple users to compete in real-time, enhancing the challenge.
 
   Adaptive Difficulty Levels: The quiz can adjust difficulty based on the user's performance, making it more engaging.
+
     
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/73ad3cd0-2bb2-4057-9fe3-c0b8a561931e)
